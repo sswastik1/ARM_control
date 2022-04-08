@@ -1,0 +1,55 @@
+
+		CMPUT 229 Laboratory Assignment #6
+		===================================
+
+Final Mark:     80 /100 MARKS TOTAL
+                =====
+
+Part 1:         40 /50 Translating Branch Instructions
+
+Part 2:         10 /10 Translating Jump and Link Register Instructions
+
+Part 3:         0 /10 Correctly Integrating ALU Translation
+
+Part 4: 	10 /10 Correctly Implementing RISC-V Branch Offset Calculation
+
+Part 5:	20 /20 Style
+
+
+------------------------------------------------------------------------
+Part 1: Translating Branch Instructions
+
+	40 /50
+
+		0 /10 Correctly translates a RISC-V branch, regardless of offset
+
+		20 /20 Correctly calculates ARM offset corresponding to non-negative RISC-V offset.
+		
+		20 /20 Correctly calculates ARM offset corresponding to non-positive RISC-V offset.
+
+------------------------------------------------------------------------
+Part 2: Translating Jump and Link Register Instructions
+
+	10 /10
+
+------------------------------------------------------------------------
+Part 3: Correctly Integrating ALU Translation
+
+	0 /10
+
+------------------------------------------------------------------------
+Part 4: Correctly Implementing RISC-V Branch Offset Calculation
+
+	10 /10
+
+------------------------------------------------------------------------
+Part 5: Style
+
+	20 /20
+ 
+Some common deductions will include: (8 marks per deduction)
+	No subroutine description
+	No program header
+	No explanation for register usage
+	No block comments
+	Incorrect submission file name or location in repo
